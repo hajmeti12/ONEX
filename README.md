@@ -1,139 +1,46 @@
-🚀 ONEX PANEL 1.3.9
+# 🚀 ONEX 1.3.8
 
-⚡ PROFESSIONAL V2RAY / XRAY MANAGEMENT PANEL
+<p align="center">
+  <img src="onex-logo-3d.png" alt="ONEX Logo" width="300">
+</p>
 
-ONEX Panel یک پنل حرفه‌ای و مدرن برای مدیریت، ساخت و کنترل کانفیگ‌های V2Ray / Xray است که با تمرکز بر سرعت، پایداری، عملکرد و تجربه کاربری توسعه داده شده است.
+<p align="center">
+  <strong>Advanced Self-Hosted Management Panel</strong>
+</p>
 
----
+<p align="center">
+  <a href="README.md">🇮🇷 فارسی</a> &nbsp;&nbsp; | &nbsp;&nbsp;
+  <a href="README.en.md">🇬🇧 English</a>
+</p>
 
-✨ FEATURES
-
-🎛️ PROFESSIONAL PANEL
-
-- 🖥️ رابط کاربری مدرن و حرفه‌ای
-- ⚡ مدیریت سریع و آسان کانفیگ‌ها
-- 🔧 ساخت و مدیریت سرویس‌ها
-- 📊 امکانات مدیریتی و کنترلی
-- 🚀 طراحی شده با تمرکز بر عملکرد و پایداری
-
-🌐 PROTOCOL SUPPORT
-
-پشتیبانی از ساختارها و پروتکل‌های مختلف Xray و امکان مدیریت کانفیگ‌ها از طریق یک پنل یکپارچه.
-
----
-
-☁️ RAILWAY DEPLOY
-
-🚀 EASY DEPLOYMENT ON RAILWAY
-
-ONEX Panel قابلیت اجرا و Deploy روی Railway را دارد و می‌توانید پروژه را بدون نیاز به مدیریت مستقیم سرور، در محیط ابری Railway اجرا کنید.
-
-📌 DEPLOYMENT STEPS
-
-1️⃣ FORK THE PROJECT
-
-ابتدا پروژه را در GitHub به حساب خود Fork کنید.
-
-2️⃣ CONNECT TO RAILWAY
-
-ریپوی Fork شده را به حساب Railway خود متصل کنید.
-
-3️⃣ CREATE A NEW SERVICE
-
-یک سرویس جدید برای اجرای پروژه ایجاد کنید.
-
-4️⃣ CONFIGURE ENVIRONMENT
-
-متغیرهای محیطی و تنظیمات موردنیاز پروژه را وارد کنید.
-
-5️⃣ DEPLOY
-
-پروژه را Deploy کرده و منتظر تکمیل فرآیند Build و اجرا بمانید.
-
-6️⃣ OPEN THE PANEL
-
-پس از اجرای موفق، از آدرس ایجادشده توسط Railway برای ورود به پنل استفاده کنید.
-
-«⚠️ قبل از Deploy، تنظیمات و متغیرهای محیطی موردنیاز پروژه را بررسی کنید.»
+<p align="center">
+  <a href="https://github.com/HajMeTiV2/ONEX">⭐ Star</a> •
+  <a href="https://github.com/HajMeTiV2/ONEX/fork">🍴 Fork</a> •
+  <a href="https://t.me/V2rayTun0">📢 Telegram</a> •
+  <a href="https://t.me/Mehtif">👨‍💻 Developer</a>
+</p>
 
 ---
 
-📦 CURRENT VERSION
+## 🌐 Choose your language
 
-🟢 ONEX PANEL v1.3.9
+### 🇮🇷 فارسی
+برای مشاهده مستندات کامل فارسی، روی گزینه زیر بزنید:
 
-نسخه فعلی پروژه:
+**[📖 مشاهده README فارسی](README.fa.md)**
 
-"v1.3.9"
+### 🇬🇧 English
+For the complete English documentation:
 
-این نسخه شامل بهبودهای مختلف در پنل، مدیریت سرویس‌ها و ساختار پروژه است.
-
----
-
-⚡ PERFORMANCE
-
-🚀 SPEED & STABILITY
-
-ONEX Panel با تمرکز بر ارائه یک تجربه سریع، پایدار و روان برای مدیریت کانفیگ‌ها طراحی شده است.
-
-🔥 KEY POINTS
-
-- ⚡ مدیریت سریع کانفیگ‌ها
-- 🚀 عملکرد بهینه پنل
-- 🔧 مدیریت ساده سرویس‌ها
-- 📡 مناسب برای استفاده در سرویس‌های مختلف
-- 🛠️ ساختار قابل توسعه برای بروزرسانی‌های آینده
+**[📖 Open English README](README.en.md)**
 
 ---
 
-❤️ SUPPORT THE PROJECT
+### ❤️ Support ONEX
 
-⭐ YOUR SUPPORT MATTERS
+⭐ Star the repository • 🍴 Fork the project • 📢 Join the Telegram channel
 
-اگر ONEX Panel برای شما مفید بوده، با حمایت خود به ادامه توسعه پروژه کمک کنید.
+**Developer:** [@Mehtif](https://t.me/Mehtif)  
+**Telegram:** [@V2rayTun0](https://t.me/V2rayTun0)
 
-⭐ STAR
-
-به پروژه Star ⭐ بدهید تا حمایت خود را نشان دهید.
-
-🍴 FORK
-
-پروژه را Fork 🍴 کنید و آن را برای استفاده یا توسعه بیشتر در اختیار داشته باشید.
-
-📢 SHARE
-
-پروژه را با دوستان و سایر کاربران به اشتراک بگذارید.
-
----
-
-💰 FINANCIAL SUPPORT
-
-📢 TELEGRAM CHANNEL
-
-برای حمایت مالی از پروژه، دریافت اخبار، بروزرسانی‌ها و اطلاع از نسخه‌های جدید به کانال تلگرام بپیوندید:
-
-👉 "@V2rayTun0" (https://t.me/V2rayTun0)
-
----
-
-👨‍💻 DEVELOPER
-
-🧑‍💻 @MEHTIF
-
-Developer & Creator: "@Mehtif" (https://github.com/Mehtif)
-
----
-
-🌟 THANK YOU
-
-اگر از ONEX Panel استفاده می‌کنید، یک Star ⭐ در GitHub بگذارید.
-
-هر Star، Fork و Share شما باعث انگیزه بیشتر برای توسعه قابلیت‌های جدید و انتشار نسخه‌های بهتر پروژه می‌شود. ❤️
-
----
-
-🚀 ONEX PANEL
-
-FAST • POWERFUL • PROFESSIONAL
-
-Built with ❤️ by @Mehtif
+<p align="center"><strong>ONEX — Fast · Secure · Stable</strong></p>
