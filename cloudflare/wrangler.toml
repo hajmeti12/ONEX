@@ -1,0 +1,13 @@
+name = "onex-edge"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+
+[vars]
+# Set this to the public URL of the ONEX Python origin.
+# Prefer `wrangler secret put ONEX_ORIGIN` for production.
+ONEX_ORIGIN = "https://YOUR-ONEX-ORIGIN.example.com"
+
+[[d1_databases]]
+binding = "ONEX_DB"
+database_name = "onex-edge-db"
+database_id = "YOUR_D1_DATABASE_ID_HERE"
