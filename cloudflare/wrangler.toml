@@ -9,5 +9,5 @@ ONEX_ORIGIN = "https://YOUR-ONEX-ORIGIN.example.com"
 
 [[d1_databases]]
 binding = "ONEX_DB"
-database_name = "onex-edge-db"
-database_id = "YOUR_D1_DATABASE_ID_HERE"
+database_name = "onex-db"
+database_id = "f5c39466-9e2f-4a21-aa00-14be842dc8b5"
